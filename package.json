@@ -1,0 +1,22 @@
+{
+  "name": "advancedwebtest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerain/advancedwebtest.git"
+  },
+  "author": "aerain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aerain/advancedwebtest/issues"
+  },
+  "homepage": "https://github.com/aerain/advancedwebtest#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
